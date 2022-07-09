@@ -16,13 +16,16 @@ uvicorn main:app
 ```
 http://localhost:8000/docs
 ```
+6. Extract shamo-flutter.zip
 
-6. Test endpoint with flutter or swagger
+7. Test endpoint with flutter by running flutter app
 ```
+flutter create .
+
 flutter pub get
 
 flutter run
 ```
-7. Select comfortable device to test
+8. Select comfortable device to test
 
-8. Happy coding :)
+9. Happy coding :)
