@@ -17,5 +17,5 @@ uvicorn main:app
 http://localhost:8000/docs
 ```
 
-6. Test endpoint with flutter
+6. Test endpoint with flutter or swagger
 7. Happy coding :)
