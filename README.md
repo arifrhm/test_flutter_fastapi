@@ -18,4 +18,11 @@ http://localhost:8000/docs
 ```
 
 6. Test endpoint with flutter or swagger
-7. Happy coding :)
+```
+flutter pub get
+
+flutter run
+```
+7. Select comfortable device to test
+
+8. Happy coding :)
