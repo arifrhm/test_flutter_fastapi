@@ -1,0 +1,34 @@
+Transaksi :
+
+{
+  "stocks_id": 1,
+  "barang_id": 1,
+  "jenis_barang_id":1,
+  "nama_barang": "Kopi",
+  "stock": 100,
+  "jumlah_terjual": 10,
+  "jenis_barang": "Konsumsi",
+  "tanggal_transaksi": ""
+}
+
+{
+  "stocks_id": 2,
+  "barang_id": 2,
+  "jenis_barang_id":1,
+  "nama_barang": "Teh",
+  "stock": 100,
+  "jumlah_terjual": 10,
+  "jenis_barang": "Konsumsi",
+  "tanggal_transaksi": ""
+}
+
+{
+  "stocks_id": 3,
+  "barang_id": 3,
+  "jenis_barang_id":2,
+  "nama_barang": "Pasta Gigi",
+  "stock": 100,
+  "jumlah_terjual": 10,
+  "jenis_barang": "Pembersih",
+  "tanggal_transaksi": ""
+}
